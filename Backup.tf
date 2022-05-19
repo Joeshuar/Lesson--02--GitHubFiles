@@ -1,0 +1,7 @@
+partner {
+
+}
+
+resources "".""{
+
+}
